@@ -32,8 +32,8 @@ The Air Quality Monitoring System addresses the growing need for monitoring air 
   - **GP2Y1010AU0F**: Optical dust sensor (PM2.5)
   - **MQ135**: Gas sensor for detecting pollutants like CO₂ and NH₃
 - **Cloud Platform**: ThingSpeak for data storage and visualization
-- **Programming Languages**: C++, Python, and Dart (for app integration)
-- **Mobile App Framework**: Flutter
+- **Programming Languages**: C++, Dart (for app integration)
+- **Mobile App Framework**: Flutter (on VS code)
 
 ---
 
@@ -94,6 +94,15 @@ Refer to the project's circuit diagram for detailed connections.
 
 ---
 
+## 📜 Research Paper
+
+For a detailed understanding of the project, please refer to the research paper linked below:
+
+**[Air Quality Monitoring System: Insights and Innovations (PDF)]([research paper.pdf](https://github.com/user-attachments/files/18440978/research.paper.pdf)
+)**
+
+---
+
 ## 📈 Future Enhancements
 
 - **Prediction Algorithms**: Implementing AI models for forecasting air quality trends.
@@ -104,9 +113,10 @@ Refer to the project's circuit diagram for detailed connections.
 
 ## 🖼️ Project Showcase
 
-- **Circuit Diagram**: [Add link or image here]
-- **ThingSpeak Visualization**: [Add link or screenshot here]
-- **Mobile App**: [Add link or screenshots here]
+- **Circuit Diagram**: ![image 754L02](https://github.com/user-attachments/assets/a7f5075b-d735-4a28-83ac-0e3bf86f3a14)
+- **Mobile App**:
+   ![image JGAE02](https://github.com/user-attachments/assets/7ab41476-0f67-4ce3-9b82-0b90974e1ada)
+
 
 ---
 
@@ -124,4 +134,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to **[Your Name]** at **[Your Email Address]**.
+For any inquiries or feedback, please reach out to **[Harshdeep Singh]** at **[harsh0129h@gmail.com]**.
